@@ -93,7 +93,7 @@ p x n
 > [!NOTE]
 > These are just a plan, the full achievement will be updated in v1.1.0
 
-1. **The First Roll** → do the first roll  
+1. **The First Roll** → do your first roll  
 Hello World.
 
 2. **A Pair** → get the same shape on a 2-column slot  
@@ -103,13 +103,13 @@ We Are Couple One!
 Three of the Kind are not better than THE ROCKKKKKKK.
 
 4. **Four Times** → get the same shape on a 4-column slot  
-How possible is it that 3A exists?
+How possible is it that 4 A's exists?
 
 5. **Jackpot!** → get the same shape on a 5-column slot  
 How Did We Get Here?
 
 6. **Thousandaire** → get a total of 10,000 L Coins  
-Almost 990,000 L Coins left to become a millionaire lol
+Almost, you need more 990,000 L Coins to become a millionaire lol
 
 7. **The Highest Possible** → get the highest L Coin without getting the same shape  
 Well, I guess it's still much huh?
