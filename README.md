@@ -120,7 +120,10 @@ bad luck bro.
 9. **Do Re Mi** -> get Red Square, Blue Circle, Green Emerald in order on 3-column slot.  
 Fa So La Ti DO!
 
-10. **Full House** -> get 3 same shape first or last and 2 shape first or last.  
+10. **Mi Re Do** -> get Red Square, Blue Circle, Green Emerald in reverse order on 3-column slot.  
+Ti La So Fa# MI
+
+11. **Full House** -> get 3 same shape first or last and 2 shape first or last.  
 pretty big huh?
 
 # More
