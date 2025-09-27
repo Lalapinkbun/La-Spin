@@ -73,7 +73,11 @@ p x n
 > [!NOTE]
 > p = shape value; i = number of matching columns; n = Magnification
 
----
+# Plans for Future Updates
+
+1. The Achievement System
+2. A Goal… maybe?
+3. Memes.............?
 
 # More
 - [Lalapinkbun Discord Server](https://discord.gg/EFTQ4sb7YD)
