@@ -84,9 +84,9 @@ p x n
 # Plans for Future Updates
 
 1. The Achievement System
-- Adding Music
-- A Goal… maybe?
-- Memes.............?
+2. Adding Music
+3. A Goal… maybe?
+4. Memes.............?
 
 # More
 - [Lalapinkbun Discord Server](https://discord.gg/EFTQ4sb7YD)
