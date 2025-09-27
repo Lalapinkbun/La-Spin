@@ -111,10 +111,10 @@ How Did We Get Here?
 6. **Thousandaire** → get a total of 10,000 L Coins  
 Almost, you need more 990,000 L Coins to become a millionaire lol
 
-7. **The Highest Possible** → get the highest L Coin without getting the same shape buff  
+7. **The Highest Possible** → get the highest L Coin without getting the same shape state  
 Well, I guess it's still much huh?
 
-8. **The Lowest Possible** -> get the lowest L Coin without getting the same shape buff on the 3-column slot or above  
+8. **The Lowest Possible** -> get the lowest L Coin without getting the same shape state on the 3-column slot or above  
 bad luck bro.
 
 9. **Do Re Mi** -> get Red Square, Blue Circle, Green Emerald in order on 3-column slot.  
