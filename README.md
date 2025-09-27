@@ -22,6 +22,14 @@ Hit "Turn" to spin and get some L Coin~!
 > [!IMPORTANT]
 > We do not encourage you to indulge in gambling!
 
+# System Requirements
+
+- OS: Windows 10 or later (might work on older versions too) [x64]
+- CPU: Any modern processor  
+- RAM: 2 GB or more  
+- GPU: Any GPU that supports basic 2D graphics  
+- Storage: 50 MB free (game size ~35 MB)  
+
 # How It Works
 
 In La-Spin, you have one row and up to five columns.  
