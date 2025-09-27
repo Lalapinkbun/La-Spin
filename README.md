@@ -75,7 +75,7 @@ p x n
 - **Same shape:**<br/>
 (p x [i x 2]) x n
 
-**Exception for Red Square (balance buff):**<br/>
+- **Exception for Red Square (balance buff):**<br/>
 (p x [i x 5]) x n
 
 > [!NOTE]
