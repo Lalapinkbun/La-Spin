@@ -88,6 +88,32 @@ p x n
 3. A Goal… maybe?
 4. Memes.............?
 
+# Achievement
+
+> [!NOTE]
+> These are just a plan, the full achievement will be updated in v1.1.0
+
+1. **The First Roll** → do the first roll  
+Hello World.
+
+2. **A Pair** → get the same shape on a 2-column slot  
+We Are Couple One!
+
+3. **Triplet** → get the same shape on a 3-column slot  
+Three of the Kind are not better than THE ROCKKKKKKK.
+
+4. **Four Times** → get the same shape on a 4-column slot  
+How possible is it that 3A exists?
+
+5. **Jackpot!** → get the same shape on a 5-column slot  
+How Did We Get Here?
+
+6. **Thousandaire** → get a total of 10,000 L Coins  
+Almost 990,000 L Coins left to become a millionaire lol
+
+7. **The Highest Possible** → get the highest L Coin without getting the same shape  
+Well, I guess it's still much huh?
+
 # More
 - [Lalapinkbun Discord Server](https://discord.gg/EFTQ4sb7YD)
 - [Lalapinkbun Youtube Channel](https://www.youtube.com/@lalapinkbun)
