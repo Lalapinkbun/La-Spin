@@ -126,6 +126,8 @@ Ti La So Fa# MI
 11. **Full House** -> get 3 same shape first or last and 2 shape first or last.  
 pretty big huh?
 
+For more, by just going [here](Achievement.md)
+
 # More
 - [Lalapinkbun Discord Server](https://discord.gg/EFTQ4sb7YD)
 - [Lalapinkbun Youtube Channel](https://www.youtube.com/@lalapinkbun)
