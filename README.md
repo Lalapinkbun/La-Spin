@@ -128,6 +128,15 @@ pretty big huh?
 
 For more, by just going [here](Achievement.md)
 
+# Credit
+
+---- Trio Dimension ----
+
+Idea by Lalapinkbun  
+Coding by Lalapinkbun  
+Music by Lalapinkbun
+Art by Lalapinkbun
+
 # More
 - [Lalapinkbun Discord Server](https://discord.gg/EFTQ4sb7YD)
 - [Lalapinkbun Youtube Channel](https://www.youtube.com/@lalapinkbun)
