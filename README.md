@@ -138,5 +138,11 @@ Music by Lalapinkbun
 Art by Lalapinkbun
 
 # More
+Lalapinkbun
+
 - [Lalapinkbun Discord Server](https://discord.gg/EFTQ4sb7YD)
 - [Lalapinkbun Youtube Channel](https://www.youtube.com/@lalapinkbun)
+
+Trio Dimension
+
+- [Trio Dimension Youtube Channle](https://www.youtube.com/@TrioDimensionStudioOfficial)
