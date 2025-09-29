@@ -81,6 +81,11 @@ p x n
 > [!NOTE]
 > p = shape value; i = number of matching columns; n = Magnification
 
+# Probability
+
+> [!NOTE]
+> actually is split equally, so it's like 33.333333333333333333333333333333333333333333333333333333333333...% for every shape
+
 # Plans for Future Updates
 
 1. The Achievement System
