@@ -134,7 +134,7 @@ For more, by just going [here](Achievement.md)
 
 Idea by Lalapinkbun  
 Coding by Lalapinkbun  
-Music by Lalapinkbun
+Music by Lalapinkbun  
 Art by Lalapinkbun
 
 # More
