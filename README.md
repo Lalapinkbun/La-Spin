@@ -8,7 +8,7 @@
 
 ---
 
-see the [Change Log](Change_Log.md) if you want~
+see the [Change Log](ChangeLog.md) if you want~
 
 # How to Play
 <ins><b>There is no goal in this game, so just have fun!</b></ins><br/>
