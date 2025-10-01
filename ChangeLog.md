@@ -15,3 +15,6 @@ wha? this is first release, does not have a Change-
 - now All v1.1.0 of 11 Achievement have get into the game
 - Add the Achievement Button on Lobby for make Achievement Scene
 - Add Delete Save Function into GameDataManager
+
+# Change Log v1.0.2.1
+- Fixed the Achievement of Full House that doesn't make correctly
