@@ -18,3 +18,7 @@ wha? this is first release, does not have a Change-
 
 # Change Log v1.0.2.1
 - Fixed the Achievement of Full House that doesn't make correctly
+
+# Change Log v1.0.2.2
+- Add The Achievement Scene
+- Add The Transition Animation
