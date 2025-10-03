@@ -6,7 +6,7 @@ wha? this is first release, does not have a Change-
 - Add PlayerAchievementState class 
 - now Achievement can work on anywhere (I guess)
 - Fixed the 1-column slot weren’t calculating correctly
-- Optimized page arrow artwork
+- Improved page arrow artwork
 - The Font Has Changed. Thanks Pixeloid! (https://ggbot.itch.io/pixeloid-font)
 - player saves will be update to v1.1.0 "style" if player have been played v1.0.0 before
 
