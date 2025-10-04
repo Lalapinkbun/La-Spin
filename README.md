@@ -101,7 +101,7 @@ p x n
 
 Before v1.2.0, by just going [here](Achievement.md)
 
-Nothing. Lalapinkbun just lazy lol
+Nothing. Lalapinkbun just lazy lol  
 -Fenqiyuan
 
 # Credit
