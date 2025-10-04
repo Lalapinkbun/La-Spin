@@ -24,6 +24,9 @@ Hit "Turn" to spin and get some L Coin~!
 > [!IMPORTANT]
 > We do not encourage you to indulge in gambling!
 
+Full Game Estimated Time:
+15m
+
 # System Requirements
 
 - OS: Windows 10 or later (might work on older versions too) [x64]
