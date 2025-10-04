@@ -4,7 +4,7 @@
 
 *this is my side project btw*
 
-***Current version: 1.0***
+***Current version: 1.1***
 
 ---
 
@@ -88,52 +88,21 @@ p x n
 > [!NOTE]
 > actually is split equally, so it's like 33.333333333333333333333333333333333333333333333333333333333333...% for every shape
 
-# Plans for Future Updates
+# Plans for Future Updates (Update v1.1.0)
 
-1. The Achievement System
-2. Adding Music
-3. A Goal… maybe?
-4. Memes.............?
+1. More Achievement
+2. More Music
+3. More Memes.............?
 
 # Achievement
 
 > [!NOTE]
-> These are just a plan, the full achievement will be updated in v1.1.0
+> These are just a plan, the full achievement will be updated in v1.2.0
 
-1. **The First Roll** → do your first roll  
-Hello World.
+Before v1.2.0, by just going [here](Achievement.md)
 
-2. **A Pair** → get the same shape on a 2-column slot  
-We Are Couple One!
-
-3. **Triplet** → get the same shape on a 3-column slot  
-Three of the Kind are not better than THE ROCKKKKKKK.
-
-4. **Four Times** → get the same shape on a 4-column slot  
-How possible is it that 4 A's exists?
-
-5. **Jackpot!** → get the same shape on a 5-column slot  
-How Did We Get Here?
-
-6. **Thousandaire** → get a total of 10,000 L Coins  
-Almost, you need more 990,000 L Coins to become a millionaire lol
-
-7. **The Highest Possible** → get the highest L Coin without getting the same shape state  
-Well, I guess it's still much huh?
-
-8. **The Lowest Possible** -> get the lowest L Coin without getting the same shape on the 3-column slot or above  
-bad luck bro.
-
-9. **Do Re Mi** -> get Red Square, Blue Circle, Green Emerald in order on 3-column slot.  
-Fa So La Ti DO!
-
-10. **Mi Re Do** -> get Red Square, Blue Circle, Green Emerald in reverse order on 3-column slot.  
-Ti La So Fa# MI
-
-11. **Full House** -> get 3 same shape first or last and 2 shape first or last.  
-pretty big huh?
-
-For more, by just going [here](Achievement.md)
+Nothing. Lalapinkbun just lazy lol
+-Fenqiyuan
 
 # Credit
 
