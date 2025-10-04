@@ -28,7 +28,7 @@ Hit "Turn" to spin and get some L Coin~!
 
 - OS: Windows 10 or later (might work on older versions too) [x64]
 - CPU: Any modern processor  
-- RAM: 2 GB or more (Recomment to 4GB)
+- RAM: 4 GB or more
 - GPU: Any GPU that supports basic 2D graphics  
 - Storage: 200 MB free (game size ~100 MB)  
 
