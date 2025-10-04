@@ -29,7 +29,7 @@ Full Game Estimated Time:
 
 # System Requirements
 
-- OS: Windows 10 or later (might work on older versions too) [x64]
+- OS: Windows 10 or later (might work on older versions too)
 - CPU: Any modern processor  
 - RAM: 4 GB or more
 - GPU: Any GPU that supports basic 2D graphics  
