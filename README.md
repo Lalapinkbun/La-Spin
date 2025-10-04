@@ -30,7 +30,7 @@ Hit "Turn" to spin and get some L Coin~!
 - CPU: Any modern processor  
 - RAM: 4 GB or more
 - GPU: Any GPU that supports basic 2D graphics  
-- Storage: 200 MB free (game size ~100 MB)  
+- Storage: 200 MB free (game size ~124 MB)  
 
 # How It Works
 
