@@ -1,5 +1,7 @@
-﻿using System.IO;
+﻿using System.Diagnostics.CodeAnalysis;
+using System.IO;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class GameDataManager : MonoBehaviour
 {
@@ -11,14 +13,49 @@ public class GameDataManager : MonoBehaviour
     private void Awake()
     {
         if (_playerData == null)
+        {
             _playerData = new PlayerData("Player");
+            _intexPlayerData._playerData._achievementDict = _playerData._achievementDict;
+        }
         // DontDestroyOnLoad(gameObject);
+        /*
+        for (int i = 0; i < _playerData._achievementDict.Count; i++)
+        {
+            Debug.Log(_playerData.GetAchievement(i).ToString());
+        }
+        */
     }
 
     public void Setup(PlayerData playerData)
     {
-        _intexPlayerData._playerData._name = playerData._name;
-        _intexPlayerData._playerData._LCoin = playerData._LCoin;
+        if (playerData._name == null)
+        {
+            _intexPlayerData._playerData._name = _playerData._name;
+        }
+        else
+        {
+            _intexPlayerData._playerData._name = playerData._name;
+        }
+
+        if (playerData._LCoin == 0)
+        {
+            _intexPlayerData._playerData._LCoin = _playerData._LCoin;
+        }
+        else
+        {
+            _intexPlayerData._playerData._LCoin = playerData._LCoin;
+        }
+
+        _intexPlayerData._playerData._achievementDict = _playerData._achievementDict; 
+
+        if (playerData._achievementStates == null)
+        {
+            _intexPlayerData._playerData._achievementStates = _playerData._achievementStates;
+        }
+        else
+        {
+            _intexPlayerData._playerData._achievementStates = playerData._achievementStates;
+        } 
     }
 
     public void SavePlayerData()
@@ -50,6 +87,7 @@ public class GameDataManager : MonoBehaviour
         if (_playerData == null) _playerData = new PlayerData("");
         _playerData._name = _intexPlayerData._playerData._name;
         _playerData._LCoin = _intexPlayerData._playerData._LCoin;
+        _playerData._achievementStates = _intexPlayerData._playerData._achievementStates;
     }
 
     private void CreateDefaultSave()
@@ -66,5 +104,44 @@ public class GameDataManager : MonoBehaviour
         {
             Debug.LogError("找不到 DefaultSave.json，無法建立初始存檔！");
         }
+    }
+
+    public void DeletePlayerSave()
+    {
+        if (File.Exists(SavePath))
+        {
+            File.Delete(SavePath);
+            Debug.Log("Deleted Save");
+        }
+        else
+        {
+            Debug.Log("找不到存档");
+        }
+    }
+
+    public void ChangeSpecificScene(string Scene)
+    {
+        if (Scene != null)
+        {
+            SceneManager.LoadScene(Scene);
+        }
+        else
+        {
+            Debug.LogWarning("NextScene is not assigned!");
+        }
+    }
+
+
+    public void MakeTransition(string Scene)
+    {
+        if (Scene != null)
+        {
+            FindAnyObjectByType<Transition>().PlayAndChangeScene(Scene);
+        }
+    }
+
+    public void ChangeBGM(int BGM)
+    {
+        AudioManager.Instance.PlayMusic(BGM);
     }
 }

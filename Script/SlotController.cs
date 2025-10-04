@@ -30,6 +30,9 @@ public class SlotController : MonoBehaviour
     public GameObject addLostCoin;
     public Text Log;
     public Button turnButton;
+    public Button backToLobbyButton;
+
+    public AchievementUIController uIController;
 
     //儅開始運行時，先默認顯示紅色，不然空著很奇怪www
     public void Start()
@@ -50,9 +53,11 @@ public class SlotController : MonoBehaviour
 
     public void TurnOne()
     {
+        //Debug.Log(_playerData);
+        //Debug.Log(_playerData._playerData);
         Log.text = string.Empty;
         int i = _baseCoin * _magnification;
-        if (isNotEnoughLCoin(_playerData._playerData._LCoin - i)) 
+        if (isNotEnoughLCoin(_playerData._playerData._LCoin - i))
         {
             _playerData._playerData._LCoin -= i;
         }
@@ -65,6 +70,14 @@ public class SlotController : MonoBehaviour
         StartCoroutine(addCoinAnimation(-i));
         StartCoroutine(SpinAll());
         turnButton.interactable = false;
+        backToLobbyButton.interactable = false;
+
+        //成就1
+        if (_playerData._playerData.GettingAchievement(0))
+        {
+            Debug.Log($"Got the Achievement! {_playerData._playerData.GetAchievement(0)}");
+            AchiAnimationCall(0);
+        }
     }
 
     bool isNotEnoughLCoin(int LCoin)
@@ -91,7 +104,6 @@ public class SlotController : MonoBehaviour
         foreach (var spin in spins)
             yield return spin;
 
-
         ResultCalculation(); // 在Animation之後只需要呼叫一次
     }
 
@@ -99,6 +111,7 @@ public class SlotController : MonoBehaviour
     public void ResultCalculation()
     {
         int gotcoin = 0;
+        int gotcoinAchi = 0;
         int[] results = new int[_slotCount];
         bool isAllSame = true;
         for (int i = 0; i < _slotCount; i++)
@@ -124,6 +137,7 @@ public class SlotController : MonoBehaviour
             }
         }
 
+
         //檢測同花
         for (int i = 1; i < _slotCount; i++)
         {
@@ -134,7 +148,7 @@ public class SlotController : MonoBehaviour
             }
         }
 
-        if (isAllSame)
+        if (isAllSame && _slotCount >= 2)
         {
             //然後就看哪個符號同步，然後之前加的值直接替代掉。
             switch (results[0])
@@ -158,17 +172,18 @@ public class SlotController : MonoBehaviour
             {
                 switch (results[i])
                 {
-                    case 0: 
-                        gotcoin += 1; 
+                    case 0:
+                        gotcoin += 1;
                         break;
-                    case 1: 
-                        gotcoin += 3; 
+                    case 1:
+                        gotcoin += 3;
                         break;
-                    case 2: 
-                        gotcoin += 5; 
+                    case 2:
+                        gotcoin += 5;
                         break;
                 }
             }
+            gotcoinAchi = gotcoin;
             gotcoin *= _magnification;
         }
 
@@ -176,6 +191,50 @@ public class SlotController : MonoBehaviour
         _playerData._playerData._LCoin += gotcoin;
         StartCoroutine(addCoinAnimation(gotcoin));
         turnButton.interactable = true;
+        backToLobbyButton.interactable = true;
+
+        //isAllSame = true;
+        //成就2-11
+        if (isAllSame && _slotCount == 2 && _playerData._playerData.GettingAchievement(1))
+        {
+            AchiAnimationCall(1);
+        }
+        if (isAllSame && _slotCount == 3 && _playerData._playerData.GettingAchievement(2))
+        {
+            AchiAnimationCall(2);
+        }
+        if (isAllSame && _slotCount == 4 && _playerData._playerData.GettingAchievement(3))
+        {
+            AchiAnimationCall(3);
+        }
+        if (isAllSame && _slotCount == 5 && _playerData._playerData.GettingAchievement(4))
+        {
+            AchiAnimationCall(4);
+        }
+        if (_playerData._playerData._LCoin >= 10000 && _playerData._playerData.GettingAchievement(5))
+        {
+            AchiAnimationCall(5);
+        }
+        if (gotcoinAchi == 23 && _playerData._playerData.GettingAchievement(6))
+        {
+            AchiAnimationCall(6);
+        }
+        if (gotcoinAchi == 5 && _slotCount >= 3 && _playerData._playerData.GettingAchievement(7))
+        {
+            AchiAnimationCall(7);
+        }
+        if (_slotCount == 3 && results[0] == 0 && results[1] == 1 && results[2] == 2 && _playerData._playerData.GettingAchievement(8))
+        {
+            AchiAnimationCall(8);
+        }
+        if (_slotCount == 3 && results[0] == 2 && results[1] == 1 && results[2] == 0 && _playerData._playerData.GettingAchievement(9))
+        {
+            AchiAnimationCall(9);
+        }
+        if (_slotCount == 5 && CheckFullHouse(results) && _playerData._playerData.GettingAchievement(10))
+        {
+            AchiAnimationCall(10);
+        }
     }
 
     //會顯示扣了還是加了多少L幣
@@ -230,5 +289,99 @@ public class SlotController : MonoBehaviour
     public void ChangeMagnification(int magnification)
     {
         _magnification = magnification + 1; //因爲dropdown的值是從0開始，所以必須+1
+    }
+
+    public void AchiAnimationCall(int id)
+    {
+        Debug.Log($"Got the Achievement! {_playerData._playerData.GetAchievement(id)}");
+        uIController.AchievementAnimation(_playerData._playerData.GetAchievementName(id), _playerData._playerData.GetAchievementMemeDec(id));
+    }
+
+    public bool CheckFullHouse(int[] results)
+    {
+        int fullhousecount = 0;
+        int fullhouseslotleft = 5;
+        bool fullhousefirst = false;
+        bool fullhouselast = false;
+        int ban = -1;
+        //检测FullHouse - 1
+        for (int i = 0; i <= fullhouseslotleft - 3; i++)
+        { 
+            if (i == 1)
+            {
+                if (results[i] == results[0])
+                {
+                    fullhousecount++;
+                }
+                else
+                {
+                    fullhousecount--;
+                }
+            }
+            else
+            {
+                if (results[i] == results[0])
+                {
+                    fullhousecount++;
+                }
+            }
+            Debug.Log(i + ".: " + fullhousecount);
+        }
+        Debug.Log($"First Run For: {fullhousecount}");
+        switch (fullhousecount)
+        {
+            case 2:
+                fullhouseslotleft = 3;
+                fullhousefirst = true;
+                ban = results[0];
+                break;
+            case 3:
+                fullhouseslotleft = 2;
+                fullhousefirst = true;
+                ban = results[0];
+                break;
+            default:
+                fullhousefirst = false;
+                break;
+        }
+        //检测FullHouse - 2
+        fullhousecount = 0;
+        if (fullhousefirst)
+        {
+            Debug.Log("Full House first are pass");
+            if (fullhouseslotleft == 3)
+            {
+                for (int i = 2; i < _slotCount; i++)
+                {
+                    if (results[i] == results[2] && results[i] != ban)
+                    {
+                        fullhousecount++;
+                    }
+                    Debug.Log(i + ".: " + fullhousecount);
+                }
+            }
+            else
+            {
+                for (int i = 3; i < _slotCount; i++)
+                {
+                    if (results[i] == results[3] && results[i] != ban)
+                    {
+                        fullhousecount++;
+                    }
+                    Debug.Log(i + ".: " + fullhousecount);
+                }
+            }
+            if (fullhousecount == fullhouseslotleft)
+            {
+                fullhouselast = true;
+                Debug.Log("Full House last are pass");
+            }
+        }
+        Debug.Log($"Last Run For: {fullhousecount}");
+        if (fullhousefirst && fullhouselast)
+        {
+            return true;
+        }
+        return false;
     }
 }
