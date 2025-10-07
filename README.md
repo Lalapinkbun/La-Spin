@@ -22,7 +22,7 @@ Something like this:
 Hit "Turn" to spin and get some L Coin~!
 
 > [!IMPORTANT]
-> We do not encourage you to indulge in gambling!
+> This game is just for fun — remember, gambling isn’t bad, but getting lost in it is.
 
 Full Game Estimated Time:  
 15m (with 100% Achievement)
