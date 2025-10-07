@@ -21,6 +21,10 @@ Something like this:
 
 Hit "Turn" to spin and get some L Coin~!
 
+> [!IMPORTANT]
+> This game is a fictional slot machine simulator made for fun.  
+We don’t promote gambling — just don’t get addicted! 
+
 Full Game Estimated Time:  
 15m (with 100% Achievement)
 
