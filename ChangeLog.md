@@ -35,3 +35,9 @@ wha? this is first release, does not have a Change-
 - Now Achievement are Fully work!
 - Add the Play Limit on every slot based on Count on L Coin
 - Final Improved Some minor UI
+
+# Change Log v1.1.0.1
+- For Unity Security Update, now this project have been update to Unity 6.1 -> 6.2
+  - The Gameplay still same as v1.1.0, but just do some update that needed
+- Actually for this Project/Game, is a singleplayer game, might be not necessary needed updated, but... yeah
+  - I do.
