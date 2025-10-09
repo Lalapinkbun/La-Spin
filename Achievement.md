@@ -1,8 +1,5 @@
 # v1.1.0 added
 
-> [!NOTE]
-> These are just a plan, the full achievement will be updated in v1.1.0
-
 1. **The First Roll** → do your first roll  
 Hello World.
 
@@ -35,3 +32,8 @@ Ti La So Fa# MI
 
 11. **Full House** -> get 3 same shape first or last and 2 shape first or last.  
 pretty big huh?
+
+# v1.2.0 added
+
+> [!NOTE]
+> These are just a plan, the full achievement will be updated in v1.2.0
