@@ -38,21 +38,21 @@ pretty big huh?
 > [!NOTE]
 > These are just a plan, the full achievement will be updated in v1.2.0
 
-12. **Repetition** -> get same shape 3 times in a row on 1-column slot.
+12. **Repetition** -> get same shape 3 times in a row on 1-column slot.  
 a draw agian???
 
-12. **Penta Kill** -> get same shape 5 times in a row on 1-column slot.
+12. **Penta Kill** -> get same shape 5 times in a row on 1-column slot.  
 well, i guess on other hand, that mean you're somehow pretty luck huh? or... bad? idk.
 
-13 **The Most Hardest Way?** -> get same shape state 5 times in a row on 5-column slot.
+13 **The Most Hardest Way?** -> get same shape state 5 times in a row on 5-column slot.  
 WHAT THE F-
 
-14 **Stalemate** -> get same shape on 1st and 4th slot, and get other shape on 2nd and 3rd on 4-column slot.
+14 **Stalemate** -> get same shape on 1st and 4th slot, and get other shape on 2nd and 3rd on 4-column slot.  
 well, the most furthest distance in the world.
 
-15 **Two Pairs** -> get 2 same shpae first and 2 same shape last.
+15 **Two Pairs** -> get 2 same shpae first and 2 same shape last.  
 IS CALL SEVEN PAIRS BRO! oh yeah, this game can't evem do 14-column slot.
 
-16 **Seven Pairs** -> get every 2x same shape on 14 slot. (to make it like {[Red,Red],[Blue,Blue],[Green,Green],[Blue,Blue],[Green,Green],[Red,Red],[Blue,Blue]}, just make sure ever 2x need to change other color)
-NO WAY!
+16 **Seven Pairs** -> get every 2x same shape on 14 slot. (to make it like {[Red,Red],[Blue,Blue],[Green,Green],[Blue,Blue],[Green,Green],[Red,Red],[Blue,Blue]}, just make sure ever 2x need to change other color)  
+NO WAY!  
 Tips: to get this, you must do the **Two Pairs** once (Regardless of whether you get the achievement before or not), you'll got a one change to make this one roll on 14-column slot.
