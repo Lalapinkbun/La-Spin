@@ -120,7 +120,7 @@ well, the most furthest distance in the world.
 15 **Two Pairs** -> get 2 same shpae first and 2 same shape last.  
 IS CALL SEVEN PAIRS BRO! oh yeah, this game can't evem do 14-column slot.
 
-16 **Seven Pairs** -> get every 2x same shape on 14 slot. (to make it like {[Red,Red],[Blue,Blue],[Green,Green],[Blue,Blue],[Green,Green],[Red,Red],[Blue,Blue]}, just make sure ever 2x need to change other color)  
+16 **Seven Pairs** -> get every 2x same shape on 14 slot. (to make it like {**Red,Red**,**Blue,Blue**,**Green,Green**,**Blue,Blue**,**Green,Green**,**Red,Red**,**Blue,Blue**}, just make sure ever 2x need to change other color)  
 NO WAY!  
 Tips: to get this, you must do the **Two Pairs** once (Regardless of whether you get the achievement before or not), you'll got a one change to make this one roll on 14-column slot.
 
