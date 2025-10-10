@@ -55,4 +55,19 @@ IS CALL SEVEN PAIRS BRO! oh yeah, this game can't evem do 14-column slot.
 
 17. **Seven Pairs** -> get every 2x same shape on 14 slot. (to make it like {<ins>**Red,Red**</ins>, <ins>Blue,Blue</ins>, <ins>**Green,Green**</ins>, <ins>Blue,Blue</ins>, <ins>**Green,Green**</ins>, <ins>Red,Red</ins> ,<ins>**Blue,Blue**</ins>}, just make sure ever 2x need to change other color)  
 NO WAY!  
-Tips: to get this, you must do the **Two Pairs** once (Regardless of whether you get the achievement before or not), you'll got a one change to make this one roll on 14-column slot.
+Tips: to get this, you must do the **Two Pairs** once (Regardless of whether you get the achievement before or not), you'll got a one change to make one roll on 14-column slot.
+
+18. **Pair King** -> get same shape 3 times in a row on 2-column slot.  
+I. WAS. A. KING.
+
+19. **151's** -> get a total of 151 L Coins  
+I Choose You!
+
+20. **3 + 1** -> get 3 same shape first and other shape for last  
+What was 9 + 10. 21?
+
+21. **Hundred Thousand Millionaire** -> get a total of 100,000 L Coins  
+yeah, you know that. you need more 900,000 L Coins to become a millionaire.
+
+22. **Lalabluebun** -> get all Blue Circle on 4-coliumn slot (need to get the Achievement of 04. **Four Times**)  
+blue bone. orange bone.
