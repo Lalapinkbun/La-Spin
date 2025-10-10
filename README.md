@@ -111,7 +111,7 @@ a draw again???
 13. **Penta Kill** -> get same shape 5 times in a row on 1-column slot.  
 well, i guess on other hand, that mean you're somehow pretty luck huh? or... bad? idk.
 
-14. **The Most Hardest Way?** -> get same shape state 5 times in a row on 5-column slot.  
+14. **The Most Hardest Way?** -> get same shape state total 5 times on 5-column slot.  
 WHAT THE F-
 
 15. **Stalemate** -> get same shape on 1st and 4th slot, and get other shape on 2nd and 3rd on 4-column slot.  
