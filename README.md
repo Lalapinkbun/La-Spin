@@ -136,7 +136,7 @@ What was 9 + 10. 21?
 21. **Hundred Thousand Millionaire** -> get a total of 100,000 L Coins  
 yeah, you know that. you need more 900,000 L Coins to become a millionaire.
 
-22. **Lalabluebun** -> get all Blue Circle on 4-coliumn slot (need to get the Achievement of 04. **Four Times**)
+22. **Lalabluebun** -> get all Blue Circle on 4-coliumn slot (need to get the Achievement of 04. **Four Times**)  
 blue bone. orange bone.
 
 # Credit
