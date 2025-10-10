@@ -118,7 +118,7 @@ WHAT THE F-
 well, the most furthest distance in the world.
 
 16. **Two Pairs** -> get 2 same shpae first and 2 same shape last.  
-IS CALL SEVEN PAIRS BRO! oh yeah, this game can't evem do 14-column slot.
+IT'S CALL SEVEN PAIRS BRO! oh yeah, this game can't evem do 14-column slot.
 
 17. **Seven Pairs** -> get every 2x same shape on 14 slot. (to make it like {<ins>**Red,Red**</ins>, <ins>Blue,Blue</ins>, <ins>**Green,Green**</ins>, <ins>Blue,Blue</ins>, <ins>**Green,Green**</ins>, <ins>Red,Red</ins> ,<ins>**Blue,Blue**</ins>}, just make sure ever 2x need to change other color)  
 NO WAY!  
