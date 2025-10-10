@@ -39,7 +39,7 @@ pretty big huh?
 > These are just a plan, the full achievement will be updated in v1.2.0
 
 12. **Repetition** -> get same shape 3 times in a row on 1-column slot.  
-a draw agian???
+a draw again???
 
 13. **Penta Kill** -> get same shape 5 times in a row on 1-column slot.  
 well, i guess on other hand, that mean you're somehow pretty luck huh? or... bad? idk.
