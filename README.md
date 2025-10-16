@@ -4,7 +4,7 @@
 
 *this is my side project btw*
 
-***Current version: 1.1***
+***Current version: 1.1.0.1***
 
 ---
 
