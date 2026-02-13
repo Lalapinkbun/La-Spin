@@ -7,7 +7,7 @@ Hello World.
 We Are Couple One!
 
 3. **Triplet** → get the same shape on a 3-column slot  
-Three of the Kind are not better than THE ROCKKKKKKK.
+Three of the Kind are not better than THE ROOKKKKKKK.
 
 4. **Four Times** → get the same shape on a 4-column slot  
 How possible is it that 4 A's exists?
