@@ -41,3 +41,17 @@ wha? this is first release, does not have a Change-
   - The Gameplay still same as v1.1.0, but just do some update that needed
 - Actually for this Project/Game, is a singleplayer game, might be not necessary needed updated, but... yeah
   - I do.
+
+Extra:
+- I Somehow path that and make this game playable on Android!
+Some Fix on Android Version:
+- The Project have been update to Unity 6.2 -> 6.3
+- Minor adjustments to the layout to better suit mobile devices.
+- v1.1.0 Achievement some Text fix
+   1.   Triplet ~ ...THE ROCKKKKKKK -> ...THE ROOKKKKKKK
+
+*that all will update on Windows on the next newest version
+
+Found Bug:
+1. On Android Version the Achievements are already all done at start
+  - I guess im too hurry for the phone version
