@@ -56,7 +56,7 @@ Found Bug:
 1. On Android Version the Achievements are already all done at start
   - I guess im too hurry for the phone version
 
-# Change Log v1.1.2
+# Change Log v1.1.1
 - For Unity Update, now this project have been update to Unity 6.3 -> 6.3.11f1
 - Add "Save File Version" on Player Data.
 - Changed a bit of GameDataManager methods for reading player data
