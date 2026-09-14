@@ -55,3 +55,13 @@ Some Fix on Android Version:
 Found Bug:
 1. On Android Version the Achievements are already all done at start
   - I guess im too hurry for the phone version
+
+# Change Log v1.1.2
+- For Unity Update, now this project have been update to Unity 6.3 -> 6.3.11f1
+- Add "Save File Version" on Player Data.
+- Changed a bit of GameDataManager methods for reading player data
+- Add Two new Achievement
+  - Repetition
+  - Penta Kill
+- Fixed on v1.1.0.1 Extra version that Achievement Animation are off
+  - on Extra version deson't even pop up achievement is crazy lol
