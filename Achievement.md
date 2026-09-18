@@ -44,14 +44,14 @@ well, i guess on other hand, that mean you're somehow pretty luck huh? or... bad
 14. **Harderrrrr** -> get same shape state total 2 times on 5-column slot.  
 sooo lucky bro
 
-15. **Stalemate** -> get same shape on 1st and 4th slot, and get other shape on 2nd and 3rd on 4-column slot.  
-well, the most furthest distance in the world.
+15. **Two Pairs** -> get 2 same shpae first and 2 same shape last.  
+IT'S CALL SEVEN PAIRS BRO! oh yeah, this game can't even do 14-column slot.
 
 > [!NOTE]
 > The following are just a plan, the full achievement will be updated in v1.2.0
 
-16. **Two Pairs** -> get 2 same shpae first and 2 same shape last.  
-IT'S CALL SEVEN PAIRS BRO! oh yeah, this game can't even do 14-column slot.
+16. **Stalemate** -> get same shape on 1st and 4th slot, and get other shape on 2nd and 3rd on 4-column slot.  
+well, the most furthest distance in the world.
 
 17. **Seven Pairs** -> get every 2x same shape on 14 slot. (to make it like {<ins>**Red,Red**</ins>, <ins>Blue,Blue</ins>, <ins>**Green,Green**</ins>, <ins>Blue,Blue</ins>, <ins>**Green,Green**</ins>, <ins>Red,Red</ins> ,<ins>**Blue,Blue**</ins>}, just make sure ever 2x need to change other color)  
 NO WAY!  
