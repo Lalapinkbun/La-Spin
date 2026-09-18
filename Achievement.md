@@ -35,17 +35,17 @@ pretty big huh?
 
 # v1.2.0 added
 
-> [!NOTE]
-> These are just a plan, the full achievement will be updated in v1.2.0
-
 12. **Repetition** -> get same shape 3 times in a row on 1-column slot.  
 a draw again???
 
 13. **Penta Kill** -> get same shape 5 times in a row on 1-column slot.  
 well, i guess on other hand, that mean you're somehow pretty luck huh? or... bad? idk.
 
-14. **The Most Hardest Way?** -> get same shape state total 5 times on 5-column slot.
-WHAT THE F-
+14. **Harderrrrr** -> get same shape state total 2 times on 5-column slot.
+sooo lucky bro
+
+> [!NOTE]
+> These are just a plan, the full achievement will be updated in v1.2.0
 
 15. **Stalemate** -> get same shape on 1st and 4th slot, and get other shape on 2nd and 3rd on 4-column slot.  
 well, the most furthest distance in the world.
