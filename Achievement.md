@@ -45,7 +45,7 @@ well, i guess on other hand, that mean you're somehow pretty luck huh? or... bad
 sooo lucky bro
 
 > [!NOTE]
-> These are just a plan, the full achievement will be updated in v1.2.0
+> The following are just a plan, the full achievement will be updated in v1.2.0
 
 15. **Stalemate** -> get same shape on 1st and 4th slot, and get other shape on 2nd and 3rd on 4-column slot.  
 well, the most furthest distance in the world.
