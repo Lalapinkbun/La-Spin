@@ -56,7 +56,7 @@ I. WAS. A. KING.
 18. **151's** -> get a total of 151 L Coins  
 I Choose You!
 
-19. **3 + 1** -> get 3 same shape first and other shape for last  
+19. **3 + 1** -> get 3 same shape first and other shape for last on 4-column slot.  
 What was 9 + 10. 21?
 
 20. **Hundred Thousand Millionaire** -> get a total of 100,000 L Coins  
