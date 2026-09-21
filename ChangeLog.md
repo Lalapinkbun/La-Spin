@@ -84,7 +84,7 @@ Found Bug:
   - 3 + 1
     - get 3 same shape first and other shape for last **on 4-column slot**.
 - Achievement Fix
-  - Fixed when Repetition, Penta Kill, Harder counting are wrong.
+  - Fixed when counting Repetition, Penta Kill, Harder are goes wrong.
 - Add the rest of Achievement
   - Stalemate
   - Pair King
