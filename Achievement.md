@@ -50,7 +50,7 @@ IT'S CALL SEVEN PAIRS BRO! oh yeah, this game can't even do 14-column slot.
 16. **Stalemate** -> get same shape on 1st and 4th slot, and get other shape on 2nd and 3rd on 4-column slot.  
 well, the most furthest distance in the world.
 
-18\7. **Pair King** -> get same shape 3 times in a row on 2-column slot.  
+17. **Pair King** -> get same shape 3 times in a row on 2-column slot.  
 I. WAS. A. KING.
 
 18. **151's** -> get a total of 151 L Coins  
