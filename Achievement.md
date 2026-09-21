@@ -69,5 +69,5 @@ About this thing, in short, you know that. so this thing... that's how it work, 
 blue bone. orange bone.
 
 > [!NOTE]
-> The following are just a plan, the full achievement will be updated in v1.2.0
+> The following are just a plan, the full achievement will be updated in v1.2.0  
 > actually.... im done lol
