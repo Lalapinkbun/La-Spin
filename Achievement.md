@@ -62,7 +62,7 @@ What was 9 + 10. 21?
 20. **Hundred Thousand Millionaire** -> get a total of 100,000 L Coins  
 yeah, you know that. you need more 900,000 L Coins to become a millionaire.
 
-21. I dont know why I made this Achievement but this should be cool -> get Red Square, Blue Circle, Green Emerald, Blue Circle, Red Square in order on 5-column slot.  
+21. **I dont know why I made this Achievement but this should be cool** -> get Red Square, Blue Circle, Green Emerald, Blue Circle, Red Square in order on 5-column slot.  
 About this thing, in short, you know that. so this thing... that's how it work, how? you guys can see and can see something on it. or maybe you dont get it, but that's what I meant to, if you dont know, you dont need to guess is, since that thing I see pretty long. so i only can say is, ya, just dont ask me anything cuz you know... ya. other else I can say this will be pretty profoundIt involves a lot of things you know. so if you know what I just say, you besically know it, if you dont know... maybe try to get it or, dont. so ya.
 
 22. **Lalabluebun** -> get all Blue Circle on 4-column slot (need to get the Achievement of 04. **Four Times**)  
