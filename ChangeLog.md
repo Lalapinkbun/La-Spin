@@ -65,3 +65,31 @@ Found Bug:
   - Penta Kill
 - Fixed on v1.1.0.1 Extra version that Achievement Animation are off
   - on Extra version deson't even pop up achievement is crazy lol
+
+# Change Log v1.1.2
+- Add new Scene "Credit"
+  - can do to that scene through Main Menu
+- Add Two new Achievement
+  - Harderrrrr
+  - Two Pair
+- Optimize the base code and logic related to obtaining and detecting achievements (on PlayerData).
+- Fixed the Player Data have "_saveFileVersion" but inside was nothing.
+- Fixed when saving Player Data, _saveFileVersion of data will be nothing or Empty String.
+
+
+# Change Log v1.1.3
+- Achievement description fix
+  - Two Pairs
+    - get 2 same shape first and 2 same shape last **on 4-column slot**.
+  - 3 + 1
+    - get 3 same shape first and other shape for last **on 4-column slot**.
+- Achievement Fix
+  - Fixed when Repetition, Penta Kill, Harder counting are wrong.
+- Add the rest of Achievement
+  - Stalemate
+  - Pair King
+  - 151's
+  - 3 + 1
+  - Hundred Thousand Millionaire
+  - I dont know why I made this Achievement but this should be cool
+  - Lalabluebun
