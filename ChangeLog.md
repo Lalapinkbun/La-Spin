@@ -94,6 +94,15 @@ Found Bug:
   - I dont know why I made this Achievement but this should be cool
   - Lalabluebun
 
+# Change Log v1.1.4
+- Now the save file It will update when you are below 1.2.0
+  - It might got some bug, so need more test after 1.2.0 are out
+- Optimize the Achievement page that the Lobby Button will follow the camara
+  - now you dont need go allllllllll the way back.
+- Add two new OST into the game
+  - Slot 3
+  - Slot 4
+
 # Change Log v1.1.4.1
 - Fix that Slot 1 can do x3 magnification of bug.
 - Fix when loading player save file of "_saveFileVersion" got nothing even thought the save file had.
