@@ -93,3 +93,13 @@ Found Bug:
   - Hundred Thousand Millionaire
   - I dont know why I made this Achievement but this should be cool
   - Lalabluebun
+
+# Change Log v1.1.4.1
+- Fix that Slot 1 can do x3 magnification of bug.
+- Fix when loading player save file of "_saveFileVersion" got nothing even thought the save file had.
+  - I mean... this is both saving and loading probrem tho.
+- Fix the “Harderrrrr” Achievement detection logic.
+- Fix the "I dont know why I made this Achievement but this should be cool" Achievement detection logic.
+  - the text also
+- Add New OST... that dont exist in game, but it's one of the OSTs
+ - 08. The song that I dont satisfied
