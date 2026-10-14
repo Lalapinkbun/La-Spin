@@ -41,7 +41,7 @@ a draw again???
 13. **Penta Kill** -> get same shape 5 times in a row on 1-column slot.  
 well, i guess on other hand, that mean you're somehow pretty luck huh? or... bad? idk.
 
-14. **Harderrrrr** -> get same shape state total 2 times on 5-column slot.  
+14. **Harderrrrr** -> get same shape total 2 times on 5-column slot.  
 sooo lucky bro
 
 15. **Two Pairs** -> get 2 same shpae first and 2 same shape last.  
