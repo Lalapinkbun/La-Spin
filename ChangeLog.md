@@ -102,4 +102,4 @@ Found Bug:
 - Fix the "I dont know why I made this Achievement but this should be cool" Achievement detection logic.
   - the text also
 - Add New OST... that dont exist in game, but it's one of the OSTs
- - 08. The song that I dont satisfied
+ - The song that I dont satisfied (#08)
