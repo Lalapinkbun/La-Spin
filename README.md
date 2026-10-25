@@ -4,7 +4,7 @@
 
 *this is my side project btw*
 
-***Current version: 1.1.0.1***
+***Current version: 1.2.0***
 
 ---
 
@@ -34,7 +34,7 @@ Full Game Estimated Time:
 - CPU: Any modern processor  
 - RAM: 4 GB or more
 - GPU: Any GPU that supports basic 2D graphics  
-- Storage: 200 MB free (game size ~124 MB)  
+- Storage: 300 MB free (game size ~260 MB)  
 
 # How It Works
 
