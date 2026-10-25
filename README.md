@@ -26,7 +26,7 @@ Hit "Turn" to spin and get some L Coin~!
 We don’t promote gambling — just don’t get addicted! 
 
 Full Game Estimated Time:  
-15m (with 100% Achievement)
+1h 30m+++ (with 100% Achievement)
 
 # System Requirements
 
