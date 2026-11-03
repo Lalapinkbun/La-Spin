@@ -68,6 +68,18 @@ About this thing, in short, you know that. so this thing... that's how it work, 
 22. **Lalabluebun** -> get all Blue Circle on 4-column slot (need to get the Achievement of 04. **Four Times**)  
 blue bone. orange bone.
 
+# v1.2.0 added
 > [!NOTE]
-> The following are just a plan, the full achievement will be updated in v1.2.0  
-> actually.... im done lol
+> The following are just a plan, the full achievement will be updated in v1.3.0  
+
+23. ...  
+....
+
+34. Millionaire -> get a total of 1,000,000 L Coins  
+Finally You Got the Millionaire!
+
+35. The End -> ???  
+Thanks For Playing!
+
+
+
