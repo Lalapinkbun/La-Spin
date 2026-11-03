@@ -106,7 +106,7 @@ blue bone. orange bone.
 ???
 
 34. Millionaire -> get a total of 1,000,000 L Coins  
-Finally You Got the Millionaire!
+Finally You Got the Millionaire! I think that was the Game!
 
 35. The End -> ???  
 Thanks For Playing!
