@@ -100,39 +100,15 @@ p x n
 
 # Achievement
 
-Before v1.2.0, by just going [here](Achievement.md)
-12. **Repetition** -> get same shape 3 times in a row on 1-column slot.  
-a draw again???
+Before v1.3.0, by just going [here](Achievement.md)
+23. ...
+....
 
-13. **Penta Kill** -> get same shape 5 times in a row on 1-column slot.  
-well, i guess on other hand, that mean you're somehow pretty luck huh? or... bad? idk.
+34. Millionaire -> get a total of 1,000,000 L Coins
+Finally You Got the Millionaire!
 
-14. **Harderrrrr** -> get same shape total 2 times on 5-column slot.  
-sooo lucky bro
-
-15. **Two Pairs** -> get 2 same shpae first and 2 same shape last.  
-IT'S CALL SEVEN PAIRS BRO! oh yeah, this game can't even do 14-column slot.
-
-16. **Stalemate** -> get same shape on 1st and 4th slot, and get other shape on 2nd and 3rd on 4-column slot.  
-well, the most furthest distance in the world.
-
-17. **Pair King** -> get same shape 3 times in a row on 2-column slot.  
-I. WAS. A. KING.
-
-18. **151's** -> get a total of 151 L Coins  
-I Choose You!
-
-19. **3 + 1** -> get 3 same shape first and other shape for last on 4-column slot.  
-What was 9 + 10. 21?
-
-20. **Hundred Thousand Millionaire** -> get a total of 100,000 L Coins  
-yeah, you know that. you need more 900,000 L Coins to become a millionaire.
-
-21. **I dont know why I made this Achievement but this should be cool** -> get Red Square, Blue Circle, Green Emerald, Blue Circle, Red Square in order on 5-column slot.  
-About this thing, in short, you know that. so this thing... that's how it work, how? you guys can see and can see something on it. or maybe you dont get it, but that's what I meant to, if you dont know, you dont need to guess is, since that thing I see pretty long. so i only can say is, ya, just dont ask me anything cuz you know... ya. other else I can say this will be pretty profound, It involves a lot of things you know. so if you know what I just say, you besically know it, if you dont know... maybe try to get it or, dont. so ya.
-
-22. **Lalabluebun** -> get all Blue Circle on 4-column slot (need to get the Achievement of 04. **Four Times**)  
-blue bone. orange bone.
+35. The End -> ???
+Thanks For Playing!
 
 # Credit
 
