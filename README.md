@@ -92,7 +92,7 @@ p x n
 > [!NOTE]
 > actually is split equally, so it's like 33.333333333333333333333333333333333333333333333333333333333333...% for every shape
 
-# Plans for Future Updates (Update v1.2.0)
+# Plans for Future Updates (For Final Update v1.3.0)
 
 1. Last set of  Achievements
 2. just a bit more music
