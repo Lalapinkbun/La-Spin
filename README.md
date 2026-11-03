@@ -100,14 +100,14 @@ p x n
 
 # Achievement
 
-Before v1.3.0, by just going [here](Achievement.md)
-23. ...
+Before v1.3.0, by just going [here](Achievement.md)  
+23. ...  
 ....
 
-34. Millionaire -> get a total of 1,000,000 L Coins
+34. Millionaire -> get a total of 1,000,000 L Coins  
 Finally You Got the Millionaire!
 
-35. The End -> ???
+35. The End -> ???  
 Thanks For Playing!
 
 # Credit
